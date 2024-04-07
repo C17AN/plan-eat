@@ -1,0 +1,1260 @@
+[
+  {
+    "name": "밥정",
+    "latitude": "37.4041392",
+    "longitude": "127.1000556",
+    "url": "https://www.google.co.kr/maps/place/밥정/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca782194c2759:0x30868f9d30937b9a!8m2!3d37.4041392!4d127.1000556!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11t9q9__3_?hl=ko&entry=ttu",
+    "tags": ["순두부", "우림"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "담소소사골순대",
+    "latitude": "37.4041132",
+    "longitude": "127.0998041",
+    "url": "https://www.google.co.kr/maps/place/담소소사골순대+판교테크노밸리점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a324278bb:0x1ef1ec8caaa7fe30!8m2!3d37.4041132!4d127.0998041!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXliWEp5Y2w5UlJSQULgAQA!16s%2Fg%2F11hbfkkbbl?hl=ko&entry=ttu",
+    "tags": ["순대", "국밥", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "원조감자탕",
+    "latitude": "37.4039718",
+    "longitude": "127.0997441",
+    "url": "https://www.google.co.kr/maps/place/원조감자탕+일미집+판교2호점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7d60420f59b:0xa6b6641a16cc3472!8m2!3d37.4039718!4d127.0997441!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11srbk1_n5?hl=ko&entry=ttu",
+    "tags": ["감자탕", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "스시가오 (우림)",
+    "latitude": "37.4037041",
+    "longitude": "127.0992231",
+    "url": "https://www.google.co.kr/maps/place/스시가오/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a26df3523:0x1f323642a4615294!8m2!3d37.4037041!4d127.0992231!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fy_5qbwq?hl=ko&entry=ttu",
+    "tags": ["초밥", "우림"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "하동곰탕",
+    "latitude": "37.4036779",
+    "longitude": "127.0998045",
+    "url": "https://www.google.co.kr/maps/place/하동곰탕+다동북엇국/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca76d91df81cb:0x27b7d970abf3140!8m2!3d37.4036779!4d127.0998045!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSeGJuWTNjVE5CUlJBQuABAA!16s%2Fg%2F11g0ttbdcv?hl=ko&entry=ttu",
+    "tags": ["곰탕", "국밥", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "려원쭈꾸미볶음",
+    "latitude": "37.4038686",
+    "longitude": "127.100014",
+    "url": "https://www.google.co.kr/maps/place/려원쭈꾸미볶음/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b592b3261ceb1:0x7f1e2c5311f1f3cc!8m2!3d37.4038686!4d127.100014!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fm_b14gb?hl=ko&entry=ttu",
+    "tags": ["우림", "쭈꾸미"],
+    "category": "한식",
+    "type": "식사"
+  },
+
+  {
+    "name": "전국오대짬뽕",
+    "latitude": "37.4031551",
+    "longitude": "127.0994005",
+    "url": "https://www.google.co.kr/maps/place/전국오대짬뽕/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a287e53d9:0x28c9cdb4506ac29b!8m2!3d37.4031551!4d127.0994005!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11cltgr4sq?hl=ko&entry=ttu",
+    "tags": ["짬뽕", "중식"],
+    "category": "중식",
+    "type": "식사"
+  },
+
+  {
+    "name": "모박사부대찌개",
+    "latitude": "37.4038856",
+    "longitude": "127.100521",
+    "url": "https://www.google.co.kr/maps/place/모박사부대찌개/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca781e0bf3671:0x11e7233c09a879b5!8m2!3d37.4038856!4d127.100521!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11qmp5qjln?hl=ko&entry=ttu",
+    "tags": ["부대찌개"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "담소소사골순대",
+    "latitude": "37.4041132",
+    "longitude": "127.0998041",
+    "url": "https://www.google.co.kr/maps/place/담소소사골순대+판교테크노밸리점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a324278bb:0x1ef1ec8caaa7fe30!8m2!3d37.4041132!4d127.0998041!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXliWEp5Y2w5UlJSQULgAQA!16s%2Fg%2F11hbfkkbbl?hl=ko&entry=ttu",
+    "tags": ["국밥", "순대"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "최고야전국오대짬뽕",
+    "latitude": "37.4030965",
+    "longitude": "127.0993545",
+    "url": "https://www.google.co.kr/maps/place/최고야전국오대짬뽕/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a22cda695:0xbb0fcbb440aa8bd2!8m2!3d37.4030965!4d127.0993545!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11ddytt5s3?hl=ko&entry=ttu",
+    "tags": ["짬뽕"],
+    "category": "중식",
+    "type": "식사"
+  },
+
+  {
+    "name": "미소한우국밥",
+    "latitude": "37.4039594",
+    "longitude": "127.0999956",
+    "url": "https://www.google.co.kr/maps/place/미소한우국밥/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f50b447da1:0xc84bad32acfd06d!8m2!3d37.4039594!4d127.0999956!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11gv08xhpv?hl=ko&entry=ttu",
+    "tags": ["국밥", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "춘업순대국과 부대찌개",
+    "latitude": "37.403577",
+    "longitude": "127.1000349",
+    "url": "https://www.google.co.kr/maps/place/춘업순대국과0627부대찌개/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f70dde3e35:0xb409d056c015b013!8m2!3d37.403577!4d127.1000349!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11q277lq_7?hl=ko&entry=ttu",
+    "tags": ["국밥", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "양평해장국",
+    "latitude": "37.4039104",
+    "longitude": "127.0999131",
+    "url": "https://www.google.co.kr/maps/place/양평해장국/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a3173725b:0xd9fa765b5ea8bfa1!8m2!3d37.4039104!4d127.0999131!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11crztd2ty?hl=ko&entry=ttu",
+    "tags": ["해장국", "국밥", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "규정공",
+    "latitude": "37.4032368",
+    "longitude": "127.0992097",
+    "url": "https://www.google.co.kr/maps/place/규정공/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca7d40d6c08c7:0xd158f94446a0f263!8m2!3d37.4032368!4d127.0992097!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11p10m8_j3?hl=ko&entry=ttu",
+    "tags": ["퓨전한식"],
+    "category": "한식",
+    "type": "식사"
+  },
+
+  {
+    "name": "서호돈가스",
+    "latitude": "37.4035394",
+    "longitude": "127.1002893",
+    "url": "https://www.google.co.kr/maps/place/서호돈가스+판교이노밸리점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca708c744878d:0xc535b457dd416239!8m2!3d37.4035394!4d127.1002893!15sCgbsi53ri7laCCIG7Iud64u5kgETdG9ua2F0c3VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11qh7jpms9?hl=ko&entry=ttu",
+    "tags": ["돈가스", "유스페이스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+
+  {
+    "name": "스윗밸런스판교우림",
+    "latitude": "37.4038973",
+    "longitude": "127.0999305",
+    "url": "https://www.google.co.kr/maps/place/스윗밸런스판교우림W시티점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59601ac3439f:0xf10113c3b4abcbec!8m2!3d37.4038973!4d127.0999305!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fs_8231s?hl=ko&entry=ttu",
+    "tags": ["샐러드", "우림"],
+    "category": "샐러드·요거트·브런치",
+    "type": "식사"
+  },
+
+  {
+    "name": "원조감자탕",
+    "latitude": "37.4039718",
+    "longitude": "127.0997441",
+    "url": "https://www.google.co.kr/maps/place/원조감자탕+일미집+판교2호점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7d60420f59b:0xa6b6641a16cc3472!8m2!3d37.4039718!4d127.0997441!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11srbk1_n5?hl=ko&entry=ttu",
+    "tags": ["감자탕", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "본가광양불고기",
+    "latitude": "37.4037875",
+    "longitude": "127.0999418",
+    "url": "https://www.google.co.kr/maps/place/본가광양불고기/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca72fcb587351:0x858e233fcafb1beb!8m2!3d37.4037875!4d127.0999418!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11vdq22lhc?hl=ko&entry=ttu",
+    "tags": ["룸", "불고기", "우림"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "미소한우소고기국밥",
+    "latitude": "37.4039504",
+    "longitude": "127.0999946",
+    "url": "https://www.google.co.kr/maps/place/미소한우소고기국밥/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca70c4807944d:0x8cc44bbd20dbc6e8!8m2!3d37.4039504!4d127.0999946!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlNPRTE1TUVsbkVBReABAA!16s%2Fg%2F11smtwpl20?hl=ko&entry=ttu",
+    "tags": ["불고기"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "포앤타이판교우림더블유씨티",
+    "latitude": "37.4040239",
+    "longitude": "127.1000928",
+    "url": "https://www.google.co.kr/maps/place/포앤타이판교우림더블유씨티/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f6bf004ce1:0xc7c361f5d5ee3181!8m2!3d37.4040239!4d127.1000928!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11f6dz0gp_?hl=ko&entry=ttu",
+    "tags": ["우림", "쌀국수"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "그린쿡 & 한우가",
+    "latitude": "37.4038624",
+    "longitude": "127.1000178",
+    "url": "https://www.google.co.kr/maps/place/그린쿡+%26+한우가/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca75b48025bfd:0x24f3ec182c2a7886!8m2!3d37.4038624!4d127.1000178!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOUE5VMWhaR2huUlJBQuABAA!16s%2Fg%2F11h5txl3jh?hl=ko&entry=ttu",
+    "tags": ["한식뷔페", "가성비", "우림"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+
+  {
+    "name": "소호면가",
+    "latitude": "37.403773",
+    "longitude": "127.1003677",
+    "url": "https://www.google.co.kr/maps/place/소호면가/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7c19058fbbd:0x55243b8d7cbc7ac4!8m2!3d37.403773!4d127.1003677!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm9PUzFsTjNSUlJSQULgAQA!16s%2Fg%2F11s5wmncd9?hl=ko&entry=ttu",
+    "tags": ["칼국수", "제육볶음", "우림"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "놀부부대찌개",
+    "latitude": "37.4038414",
+    "longitude": "127.0999027",
+    "url": "https://www.google.co.kr/maps/place/놀부부대찌개+판교W-city점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7ab66ed496f:0x314ef435cfc8fb5d!8m2!3d37.4038414!4d127.0999027!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSc2FscFFRMEpCRUFF4AEA!16s%2Fg%2F11h9g7l11b?hl=ko&entry=ttu",
+    "tags": ["부대찌개", "우림"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "아세야마",
+    "latitude": "37.4037695",
+    "longitude": "127.0999534",
+    "url": "https://www.google.co.kr/maps/place/아세야마/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a30e92577:0xd15c82432c392ac2!8m2!3d37.4037695!4d127.0999534!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOS2FEWnBaRlYzRUFF4AEA!16s%2Fg%2F11c522b8lb?hl=ko&entry=ttu",
+    "tags": ["우림", "우동"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "압구정김치찌개",
+    "latitude": "37.4036091",
+    "longitude": "127.0999169",
+    "url": "https://www.google.co.kr/maps/place/압구정김치찌개+판교본점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca79d315b5abd:0xb073c9617a4c8e5!8m2!3d37.4036091!4d127.0999169!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11p100m20k?hl=ko&entry=ttu",
+    "tags": ["김치찌개"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "군산오징어판교테크노밸리점",
+    "latitude": "37.4035979",
+    "longitude": "127.1000055",
+    "url": "https://www.google.co.kr/maps/place/군산오징어판교테크노밸리점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0xefc09d3397243f39!8m2!3d37.4035979!4d127.1000055!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F1q5bwn248?hl=ko&entry=ttu",
+    "tags": ["오징어", "우림"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "먼데이키친",
+    "latitude": "37.4038077",
+    "longitude": "127.0999841",
+    "url": "https://www.google.co.kr/maps/place/먼데이키친/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca77a6e3af853:0x850c22f8a19d2839!8m2!3d37.4038077!4d127.0999841!15sCgbsi53ri7laCCIG7Iud64u5kgEZYmVlZl9yaWNlX2Jvd2xfcmVzdGF1cmFudOABAA!16s%2Fg%2F11sh45b9q_?hl=ko&entry=ttu",
+    "tags": ["우림", "덮밥"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "서호돈가스",
+    "latitude": "37.4037964",
+    "longitude": "127.1000137",
+    "url": "https://www.google.co.kr/maps/place/서호돈가스+우림WCITY점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7247f7c9f4f:0xe3473ea22f779dc9!8m2!3d37.4037964!4d127.1000137!15sCgbsi53ri7laCCIG7Iud64u5kgETdG9ua2F0c3VfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNeGFYVnRXbFpuRUFF4AEA!16s%2Fg%2F11smh4mdzb?hl=ko&entry=ttu",
+    "tags": ["우림"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "하코야",
+    "latitude": "37.4037258",
+    "longitude": "127.0998608",
+    "url": "https://www.google.co.kr/maps/place/하코야+판교우림WCity점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a307bdcdf:0xdf4a3fac1f50c45d!8m2!3d37.4037258!4d127.0998608!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11c1nbfbs1?hl=ko&entry=ttu",
+    "tags": ["우림", "라멘"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "칭따오",
+    "latitude": "37.403818",
+    "longitude": "127.10005",
+    "url": "https://www.google.co.kr/maps/place/칭따오/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0x6763393b84107f4!8m2!3d37.403818!4d127.10005!15sCgbsi53ri7laCCIG7Iud64u5kgESY2hpbmVzZV9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF5WDFwUVVtRm5FQUXgAQA!16s%2Fg%2F1q5bssrq9?hl=ko&entry=ttu",
+    "tags": [],
+    "category": "중식",
+    "type": "식사"
+  },
+  {
+    "name": "뺀타이",
+    "latitude": "37.4038199",
+    "longitude": "127.0997495",
+    "url": "https://www.google.co.kr/maps/place/뺀타이/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca791a192ba23:0xc43010dc9a2b9047!8m2!3d37.4038199!4d127.0997495!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEPdGhhaV9yZXN0YXVyYW504AEA!16s%2Fg%2F11kk93cv61?hl=ko&entry=ttu",
+    "tags": ["태국음식"],
+    "category": "아시안",
+    "type": "식사"
+  },
+
+  {
+    "name": "킨파",
+    "latitude": "37.4032717",
+    "longitude": "127.0990131",
+    "url": "https://www.google.co.kr/maps/place/킨파/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca78a1fd56e35:0xd149a7ea135749b9!8m2!3d37.4032717!4d127.0990131!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11gf8hrgq3?hl=ko&entry=ttu",
+    "tags": ["생선요리", "브릿지타워"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "스시가오 2호점",
+    "latitude": "37.4040048",
+    "longitude": "127.099924",
+    "url": "https://www.google.co.kr/maps/place/스시가오+2호점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7157ece9935:0xdeba9fecbab11308!8m2!3d37.4040048!4d127.099924!15sCgbsi53ri7laCCIG7Iud64u5kgEQc3VzaGlfcmVzdGF1cmFudOABAA!16s%2Fg%2F11sn1gmxm4?hl=ko&entry=ttu",
+    "tags": ["초밥"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "송도갈비",
+    "latitude": "37.402869",
+    "longitude": "127.0995476",
+    "url": "https://www.google.co.kr/maps/place/송도갈비+판교브릿지타워점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a1b743a13:0x371c80af04e25e23!8m2!3d37.402869!4d127.0995476!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmpNWEoyUW01M1JSQULgAQA!16s%2Fg%2F11d_ybd_y0?hl=ko&entry=ttu",
+    "tags": ["브릿지타워"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "블리스버거",
+    "latitude": "37.4037003",
+    "longitude": "127.1004844",
+    "url": "https://www.google.co.kr/maps/place/블리스버거/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59cfb8a5a1b7:0x322f8cf2d4ccbdc5!8m2!3d37.4037003!4d127.1004844!15sCgbsi53ri7laCCIG7Iud64u5kgEUZmFzdF9mb29kX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11q3x4yfmm?hl=ko&entry=ttu",
+    "tags": ["우림"],
+    "category": "버거",
+    "type": "식사"
+  },
+  {
+    "name": "칠리셔스",
+    "latitude": "37.4033881",
+    "longitude": "127.0990478",
+    "url": "https://www.google.co.kr/maps/place/칠리셔스/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7677a61e283:0x52ee633907584e82!8m2!3d37.4033881!4d127.0990478!15sCgbsi53ri7laCCIG7Iud64u5kgESbWV4aWNhbl9yZXN0YXVyYW504AEA!16s%2Fg%2F11qh0yg879?hl=ko&entry=ttu",
+    "tags": ["멕시칸", "멕시코음식"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "우림닭갈비",
+    "latitude": "37.4037875",
+    "longitude": "127.0999418",
+    "url": "https://www.google.co.kr/maps/place/우림닭갈비/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca700682e318f:0x4c329467ee6866a1!8m2!3d37.4037875!4d127.0999418!15sCgbsi53ri7mSARFrb3JlYW5fcmVzdGF1cmFudOABAA!16s%2Fg%2F11y3q0n3j9?hl=ko&entry=ttu",
+    "tags": ["우림"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "써브웨이",
+    "latitude": "37.4027987",
+    "longitude": "127.0995627",
+    "url": "https://www.google.co.kr/maps/place/써브웨이+판교브릿지타워점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca71f3194a1ed:0xad9fad20e10a239c!8m2!3d37.4027987!4d127.0995627!15sCgbsi53ri7laCCIG7Iud64u5kgENc2FuZHdpY2hfc2hvcOABAA!16s%2Fg%2F11ghpvt53r?hl=ko&entry=ttu",
+    "tags": ["서브웨이"],
+    "category": "버거",
+    "type": "식사"
+  },
+  {
+    "name": "순우가",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/순우가/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59f93b4aec85:0xf08be3fb430250c2!8m2!3d37.4002838!4d127.1022051!15sCgbsi53ri7laCCIG7Iud64u5kgEWa29yZWFuX2JlZWZfcmVzdGF1cmFudOABAA!16s%2Fg%2F11hdr2w69_?hl=ko&entry=ttu",
+    "tags": ["NS", "소고기"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "혼키라멘",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/혼키라멘/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59ae3a59e9f9:0xfd016c84ca22db62!8m2!3d37.4002838!4d127.1022051!15sCgbsi53ri7laCCIG7Iud64u5kgEQcmFtZW5fcmVzdGF1cmFudOABAA!16s%2Fg%2F11hdr36wbj?hl=ko&entry=ttu",
+    "tags": ["NS"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "판교순대",
+    "latitude": "37.4005395",
+    "longitude": "127.102275",
+    "url": "https://www.google.co.kr/maps/place/판교순대/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b58757a84d26f:0x2f52092b58db3de5!8m2!3d37.4005395!4d127.102275!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11c70cb092?hl=ko&entry=ttu",
+    "tags": ["NS", "국밥"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "교소바",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/교소바/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b594571c52efd:0x5aa30cd8b90e2a7b!8m2!3d37.4002838!4d127.1022051!15sCgbsi53ri7laCCIG7Iud64u5kgEQc29iYV9ub29kbGVfc2hvcOABAA!16s%2Fg%2F11h4tn77s_?hl=ko&entry=ttu",
+    "tags": ["NS"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "하림닭요리",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/하림닭요리/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580947f7822b:0xa02ec796f7b99873!8m2!3d37.4002838!4d127.1022051!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11gh_tzd34?hl=ko&entry=ttu",
+    "tags": ["NS"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "일품메기",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/일품메기/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580947f7822b:0xaea1229efea32398!8m2!3d37.4002838!4d127.1022051!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXdiV0ZQWXpGQlJSQULgAQA!16s%2Fg%2F11gh_tg8mb?hl=ko&entry=ttu",
+    "tags": ["NS", "매운탕"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "하이포크",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/하이포크+판교세븐벤처밸리점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b5902be0cbc5d:0x20d2a99d065b61d1!8m2!3d37.4002838!4d127.1022051!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11hdr2q8w_?hl=ko&entry=ttu",
+    "tags": ["NS"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "됐소",
+    "latitude": "37.4022613",
+    "longitude": "127.1058096",
+    "url": "https://www.google.co.kr/maps/place/됐소+판교본점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7e540109215:0x5db7591219b2ab4!8m2!3d37.4022613!4d127.1058096!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUTRYMlZ1UTBoM0VBReABAA!16s%2Fg%2F11bw5ty6hd?hl=ko&entry=ttu",
+    "tags": ["회식"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "새마을식당",
+    "latitude": "37.4019536",
+    "longitude": "127.1072768",
+    "url": "https://www.google.co.kr/maps/place/새마을식당+판교점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f456f422bd:0xde0dfe69bc31587!8m2!3d37.4019536!4d127.1072768!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkNlWFZMWnpoUlJSQULgAQA!16s%2Fg%2F11bwzytznj?hl=ko&entry=ttu",
+    "tags": ["한식", "구이", "유스페이스"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "토속상황삼계탕",
+    "latitude": "37.4019602",
+    "longitude": "127.1074877",
+    "url": "https://www.google.co.kr/maps/place/토속상황삼계탕/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f450db75df:0x96d8229e5608957f!8m2!3d37.4019602!4d127.1074877!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11dfq4gqfx?hl=ko&entry=ttu",
+    "tags": ["삼계탕", "유스페이스"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "현대옥",
+    "latitude": "37.4019239",
+    "longitude": "127.106947",
+    "url": "https://www.google.co.kr/maps/place/현대옥+판교점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f4ff217df7:0x9c7cfa1473b3ded0!8m2!3d37.4019239!4d127.106947!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11c5s_lk5v?hl=ko&entry=ttu",
+    "tags": ["콩나물국밥", "유스페이스"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+
+  {
+    "name": "조마루",
+    "latitude": "37.4013052",
+    "longitude": "127.1086306",
+    "url": "https://www.google.co.kr/maps/place/조마루+판교점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f434364587:0xb8403aaaee76dd2f!8m2!3d37.4013052!4d127.1086306!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11c0pz8q17?hl=ko&entry=ttu",
+    "tags": ["감자탕", "유스페이스"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "조재벌식당",
+    "latitude": "37.403608",
+    "longitude": "127.109514",
+    "url": "https://www.google.co.kr/maps/place/조재벌식당/data=!4m12!1m2!2m1!1z7Iud64u5!3m8!1s0x357ca7f3fcb8340b:0xda7c30ecc6c2e645!8m2!3d37.403608!4d127.109514!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEecG9ya19iZWxseV9iYXJiZXF1ZV9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJwZFdaWU5HRm5FQUXgAQA!16s%2Fg%2F11d_cxzwjd?hl=ko&entry=ttu",
+    "tags": ["삼겹살", "가성비"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "소호정 판교테크노밸리점",
+    "latitude": "37.4019219",
+    "longitude": "127.1070422",
+    "url": "https://www.google.co.kr/maps/place/소호정+테크노밸리점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7e540109215:0xae276c81b05fe173!8m2!3d37.4019219!4d127.1070422!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUlJOV1pRWTFGQkVBReABAA!16s%2Fg%2F1q5ccwd5b?hl=ko&entry=ttu",
+    "tags": ["주말에도영업", "국시", "유스페이스"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "담소사골순대",
+    "latitude": "37.4014438",
+    "longitude": "127.108292",
+    "url": "https://www.google.co.kr/maps/place/담소사골순대+판교점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f44a3146c3:0xce1842923096ba44!8m2!3d37.4014438!4d127.108292!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUlJhRTF0Y0RsQlJSQULgAQA!16s%2Fg%2F11bwyz2tnn?hl=ko&entry=ttu",
+    "tags": ["국밥", "순대", "유스페이스"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "헤비스테이크",
+    "latitude": "37.4013625",
+    "longitude": "127.1084219",
+    "url": "https://www.google.co.kr/maps/place/헤비스테이크+판교테크노밸리점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca3cf6ecfbb93:0xf65bf2fc95f428e0!8m2!3d37.4013625!4d127.1084219!15sCgbsi53ri7laCCIG7Iud64u5kgELc3RlYWtfaG91c2WaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTkRka3AxWmtsbkVBReABAA!16s%2Fg%2F11jk7_81fs?hl=ko&entry=ttu",
+    "tags": ["주말에도영업", "스테이크", "유스페이스", "가성비"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "이황식당",
+    "latitude": "37.4013517",
+    "longitude": "127.1101575",
+    "url": "https://www.google.co.kr/maps/place/이황식당/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7c092a26193:0x4ad88c84ff049456!8m2!3d37.4013517!4d127.1101575!15sCgbsi53ri7laCCIG7Iud64u5kgEQcmFtZW5fcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VReWRrMTZSWGhuUlJBQuABAA!16s%2Fg%2F11p06cs_9y?hl=ko&entry=ttu",
+    "tags": ["라멘"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "황제갈비",
+    "latitude": "37.4021486",
+    "longitude": "127.1060689",
+    "url": "https://www.google.co.kr/maps/place/황제갈비+판교점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f655a9e93f:0xb186219d5a88535!8m2!3d37.4021486!4d127.1060689!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11g0dbdn_d?hl=ko&entry=ttu",
+    "tags": ["유스페이스", "가성비"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "매일식당",
+    "latitude": "37.3975318",
+    "longitude": "127.1120182",
+    "url": "https://www.google.co.kr/maps/place/매일식당/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357b580913367e31:0xfebe2ccb898eaa61!8m2!3d37.3975318!4d127.1120182!15sCgbsi53ri7laCCIG7Iud64u5kgEhamFwYW5pemVkX3dlc3Rlcm5fZm9vZF9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU54WDI5MWRHdG5SUkFC4AEA!16s%2Fg%2F11c5t3slq0?hl=ko&entry=ttu",
+    "tags": ["경양식", "돈가스", "판교역"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "차차초밥",
+    "latitude": "37.401955",
+    "longitude": "127.1066485",
+    "url": "https://www.google.co.kr/maps/place/차차초밥/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7c04e59b89f:0xde2c242a0e05eb4b!8m2!3d37.401955!4d127.1066485!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11pdf5p_68?hl=ko&entry=ttu",
+    "tags": ["유스페이스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "후라토식당",
+    "latitude": "37.3972182",
+    "longitude": "127.1135582",
+    "url": "https://www.google.co.kr/maps/place/후라토식당+아브뉴프랑+판교점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7f4fc376bfb:0x9d30b99c7a81244c!8m2!3d37.3972182!4d127.1135582!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSYU4weFlUR1JuRUFF4AEA!16s%2Fg%2F11h3_f2q4t?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "규카츠", "일식"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "울프스덴",
+    "latitude": "37.4001878",
+    "longitude": "127.1072966",
+    "url": "https://www.google.co.kr/maps/place/울프스덴/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f5a3a3346f:0x7ac80b913a949fe6!8m2!3d37.4001878!4d127.1072966!15sCgbsi53ri7laCCIG7Iud64u5kgESaXRhbGlhbl9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJaZUMweU16ZFJSUkFC4AEA!16s%2Fg%2F11cm4d1lv8?hl=ko&entry=ttu",
+    "tags": ["양식", "스테이크", "유스페이스"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "후루룩손칼국수",
+    "latitude": "37.4019747",
+    "longitude": "127.1068969",
+    "url": "https://www.google.co.kr/maps/place/후루룩손칼국수/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7cd293c0b05:0x9735a9f1c43ee8f2!8m2!3d37.4019747!4d127.1068969!15sCgbsi53ri7laCCIG7Iud64u5kgELbm9vZGxlX3Nob3DgAQA!16s%2Fg%2F11hzn34ck1?hl=ko&entry=ttu",
+    "tags": ["칼국수", "유스페이스"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "더피크닉",
+    "latitude": "37.4001844",
+    "longitude": "127.1068058",
+    "url": "https://www.google.co.kr/maps/place/더피크닉/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca72bddd99759:0x8d7b388fbca4ac89!8m2!3d37.4001844!4d127.1068058!15sCgbsi53ri7laCCIG7Iud64u5kgEUYm94X2x1bmNoX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11f5zy1ld1?hl=ko&entry=ttu",
+    "tags": ["오므라이스", "유스페이스"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "참다운 정육식당",
+    "latitude": "37.3997311",
+    "longitude": "127.0959014",
+    "url": "https://www.google.co.kr/maps/place/참다운+정육식당/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b59eb35754171:0x94bec9a343e46765!8m2!3d37.3997311!4d127.0959014!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkxiRFJ1YkhOUlJSQULgAQA!16s%2Fg%2F11mmdpvnrz?hl=ko&entry=ttu",
+    "tags": ["대형식당", "소고기"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "부민옥",
+    "latitude": "37.3925706",
+    "longitude": "127.1119961",
+    "url": "https://www.google.co.kr/maps/place/부민옥+현대백화점+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b5957ea1f79e1:0xf9b49ea57c385af1!8m2!3d37.3925706!4d127.1119961!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNeE1uRnRUemhuUlJBQuABAA!16s%2Fg%2F11fm3c0w_t?hl=ko&entry=ttu",
+    "tags": ["현대백화점", "갈비탕", "육개장"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "명동칼국수",
+    "latitude": "37.4012518",
+    "longitude": "127.1086281",
+    "url": "https://www.google.co.kr/maps/place/명동칼국수+판교테크노밸리점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f434511331:0x8c51a2c850764737!8m2!3d37.4012518!4d127.1086281!15sCgbsi53ri7laCCIG7Iud64u5kgETa2FsZ3Vrc3VfcmVzdGF1cmFudOABAA!16s%2Fg%2F119v1hcnk?hl=ko&entry=ttu",
+    "tags": ["칼국수", "유스페이스"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "반포식스",
+    "latitude": "37.3973875",
+    "longitude": "127.1107031",
+    "url": "https://www.google.co.kr/maps/place/반포식스+판교역점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b5809e5efad2d:0x8885a7c843848159!8m2!3d37.3973875!4d127.1107031!15sCgbsi53ri7laCCIG7Iud64u5kgEOcGhvX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTktiVFJJYldoblJSQULgAQA!16s%2Fg%2F11dxhyvvyq?hl=ko&entry=ttu",
+    "tags": ["판교역", "쌀국수"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "자산어보",
+    "latitude": "37.3959581",
+    "longitude": "127.109365",
+    "url": "https://www.google.co.kr/maps/place/자산어보+판교직영점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580bd3e9840b:0x817da301739642ab!8m2!3d37.3959581!4d127.109365!15sCgbsi53ri7laCCIG7Iud64u5kgESc2VhZm9vZF9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5TZERSSGFrZDNFQUXgAQA!16s%2Fg%2F11g88fyzbs?hl=ko&entry=ttu",
+    "tags": ["해산물", "회식", "판교역"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "킹콩부대찌개",
+    "latitude": "37.4020455",
+    "longitude": "127.1107164",
+    "url": "https://www.google.co.kr/maps/place/킹콩부대찌개+동판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f6a5ab56b7:0xfb615e52a1f5f2ec!8m2!3d37.4020455!4d127.1107164!15sCgbsi53ri7laCCIG7Iud64u5kgEka29yZWFuX3NwaWN5X3NhdXNhZ2Vfc3Rld19yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJaZEdSSWNHdDNSUkFC4AEA!16s%2Fg%2F11ckvl0pc7?hl=ko&entry=ttu",
+    "tags": ["하이펙스", "부대찌개"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "빈티지1988",
+    "latitude": "37.401496",
+    "longitude": "127.1078373",
+    "url": "https://www.google.co.kr/maps/place/빈티지1988/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f434577899:0x905272648cc0dfbe!8m2!3d37.401496!4d127.1078373!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11dxdj37z0?hl=ko&entry=ttu",
+    "tags": ["유스페이스", "이탈리아음식"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "마키노차야",
+    "latitude": "37.393835",
+    "longitude": "127.1090848",
+    "url": "https://www.google.co.kr/maps/place/마키노차야+판교/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580c0880cdff:0xd3f085321a795095!8m2!3d37.393835!4d127.1090848!15sCgbsi53ri7laCCIG7Iud64u5kgESc2VhZm9vZF9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJITWpaMldGRjNFQUXgAQA!16s%2Fg%2F11c58sfx77?hl=ko&entry=ttu",
+    "tags": ["해산물", "뷔페", "판교역"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "규카츠정",
+    "latitude": "37.4012839",
+    "longitude": "127.1086461",
+    "url": "https://www.google.co.kr/maps/place/규카츠정+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7a23f705fcd:0x630e97ca73b99e59!8m2!3d37.4012839!4d127.1086461!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VReE9ITk1WMlIzRUFF4AEA!16s%2Fg%2F11v3mz5zf7?hl=ko&entry=ttu",
+    "tags": ["일식", "규카츠"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "돈돈정",
+    "latitude": "37.3978348",
+    "longitude": "127.1136706",
+    "url": "https://www.google.co.kr/maps/place/돈돈정/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f7c18fffff:0xf808218038dbda88!8m2!3d37.3978348!4d127.1136706!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VSYU5XUXphalpuUlJBQuABAA!16s%2Fg%2F11g6_wcpwl?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "일식"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "비앙또아",
+    "latitude": "37.3972827",
+    "longitude": "127.1135331",
+    "url": "https://www.google.co.kr/maps/place/비앙또아+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b5952e83a849b:0x75a9e8af283ad7fd!8m2!3d37.3972827!4d127.1135331!15sCgbsi53ri7laCCIG7Iud64u5kgERYnJ1bmNoX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnhkVFZ4UWxoQkVBReABAA!16s%2Fg%2F11lkvywxyq?hl=ko&entry=ttu",
+    "tags": ["브런치", "아브뉴프랑"],
+    "category": "샐러드·요거트·브런치",
+    "type": "식사"
+  },
+  {
+    "name": "삿뽀로 판교점",
+    "latitude": "37.395424",
+    "longitude": "127.1133272",
+    "url": "https://www.google.co.kr/maps/place/삿뽀로판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580844e50125:0x937c8588217918c8!8m2!3d37.395424!4d127.1133272!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOeGIwNXRVa05uRUFF4AEA!16s%2Fg%2F11ckw284fx?hl=ko&entry=ttu",
+    "tags": ["일식", "초밥", "판교역"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "라디오베이",
+    "latitude": "37.3976436",
+    "longitude": "127.1106185",
+    "url": "https://www.google.co.kr/maps/place/라디오베이/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b5809e457b8fd:0x75a98521df3cead7!8m2!3d37.3976436!4d127.1106185!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgERZnVzaW9uX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjVjazV1YlZOUkVBReABAA!16s%2Fg%2F11cm9t7tvj?hl=ko&entry=ttu",
+    "tags": ["메리어트"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "사라베스",
+    "latitude": "37.3921924",
+    "longitude": "127.1117319",
+    "url": "https://www.google.co.kr/maps/place/사라베스-판교+현대백화점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca40687fe46f1:0x62b1b263ddbcc036!8m2!3d37.3921924!4d127.1117319!15sCgbsi53ri7laCCIG7Iud64u5kgERYnJ1bmNoX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkxkSEpmTm14UlJSQULgAQA!16s%2Fg%2F11bw4vpvk0?hl=ko&entry=ttu",
+    "tags": ["현대백화점", "브런치"],
+    "category": "샐러드·요거트·브런치",
+    "type": "식사"
+  },
+
+  {
+    "name": "재크와콩나물",
+    "latitude": "37.4012318",
+    "longitude": "127.108642",
+    "url": "https://www.google.co.kr/maps/place/재크와콩나물/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f434577899:0x18ae01f08990d102!8m2!3d37.4012318!4d127.108642!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VRdGNISXpkRXhSRUFF4AEA!16s%2Fg%2F11ghrg_5mv?hl=ko&entry=ttu",
+    "tags": ["콩나물국밥", "유스페이스"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "미소한우소고기국밥",
+    "latitude": "37.4039504",
+    "longitude": "127.0999946",
+    "url": "https://www.google.co.kr/maps/place/미소한우소고기국밥/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca70c4807944d:0x8cc44bbd20dbc6e8!8m2!3d37.4039504!4d127.0999946!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTlNPRTE1TUVsbkVBReABAA!16s%2Fg%2F11smtwpl20?hl=ko&entry=ttu",
+    "tags": ["소고기", "국밥"],
+    "category": "찜·탕·찌개",
+    "type": "식사"
+  },
+  {
+    "name": "클준빛날영",
+    "latitude": "37.4022937",
+    "longitude": "127.1101176",
+    "url": "https://www.google.co.kr/maps/place/클준빛날영/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f6b76d3e85:0x39078d3c5c7c748b!8m2!3d37.4022937!4d127.1101176!15sCgbsi53ri7laCCIG7Iud64u5kgEQcmFtZW5fcmVzdGF1cmFudOABAA!16s%2Fg%2F11f5bppvj9?hl=ko&entry=ttu",
+    "tags": ["일식", "라멘"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "비스트로 바이콘",
+    "latitude": "37.4002838",
+    "longitude": "127.1022051",
+    "url": "https://www.google.co.kr/maps/place/비스트로+바이콘/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b59a3f45fa1ab:0xf6d44c90387a87cc!8m2!3d37.4002838!4d127.1022051!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fn0tlfwk?hl=ko&entry=ttu",
+    "tags": ["이탈리아음식", "NS"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "사위식당",
+    "latitude": "37.3942725",
+    "longitude": "127.1103217",
+    "url": "https://www.google.co.kr/maps/place/사위식당+판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b598aca34f4b7:0x49dbed0ce49aa3bf!8m2!3d37.3942725!4d127.1103217!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNeE5WQlVRVXAzRUFF4AEA!16s%2Fg%2F11h4pq6dhj?hl=ko&entry=ttu",
+    "tags": ["낙곱새", "판교역"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "빕스",
+    "latitude": "37.3974531",
+    "longitude": "127.1136323",
+    "url": "https://www.google.co.kr/maps/place/빕스+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0x83217c7bb5336c71!8m2!3d37.3974531!4d127.1136323!15sCgbsi53ri7laCCIG7Iud64u5kgERZmFtaWx5X3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUmFNRWxIZG5ablJSQULgAQA!16s%2Fg%2F1q5bwdfym?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "스테이크"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "빅피쉬",
+    "latitude": "37.4009916",
+    "longitude": "127.1071943",
+    "url": "https://www.google.co.kr/maps/place/빅피쉬/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b580909832f95:0x5af4c89f71f21076!8m2!3d37.4009916!4d127.1071943!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11fqtlz_d6?hl=ko&entry=ttu",
+    "tags": ["유스페이스", "숙성회"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "핑거크로스",
+    "latitude": "37.3974907",
+    "longitude": "127.1136019",
+    "url": "https://www.google.co.kr/maps/place/핑거크로스/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca764482ff321:0x9267e414311c1589!8m2!3d37.3974907!4d127.1136019!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOU2QwOXBWRGhSUlJBQuABAA!16s%2Fg%2F11rqg_gvtg?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "브런치", "분위기좋음"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "스시코호시",
+    "latitude": "37.401222",
+    "longitude": "127.110509",
+    "url": "https://www.google.co.kr/maps/place/스시코호시/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca7796784f5a3:0xa51d1930a1b03488!8m2!3d37.401222!4d127.110509!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11r9n7hl33?hl=ko&entry=ttu",
+    "tags": ["오마카세", "유스페이스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "스시이도",
+    "latitude": "37.3971784",
+    "longitude": "127.1134305",
+    "url": "https://www.google.co.kr/maps/place/스시이도/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca736df2b5243:0x665b44bb48a94fde!8m2!3d37.3971784!4d127.1134305!15sCgbsi53ri7laCCIG7Iud64u5kgEQc3VzaGlfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VONE1UZ3pWVkozRUFF4AEA!16s%2Fg%2F11p0w76j_9?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "스시", "오마카세"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "브루클린",
+    "latitude": "37.4020128",
+    "longitude": "127.1063115",
+    "url": "https://www.google.co.kr/maps/place/브루클린+더+피자+펍/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca779a733e1f3:0xe2dc4e249646f5d0!8m2!3d37.4020128!4d127.1063115!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11v3lk78pt?hl=ko&entry=ttu",
+    "tags": ["피자", "맥주", "유스페이스"],
+    "category": "피자",
+    "type": "식사"
+  },
+  {
+    "name": "픽유어온샐러드",
+    "latitude": "37.4021914",
+    "longitude": "127.1106792",
+    "url": "https://www.google.co.kr/maps/place/픽유어온샐러드/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f6bbb3b913:0x21ad6d1cadb3a597!8m2!3d37.4021914!4d127.1106792!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11cn6f27st?hl=ko&entry=ttu",
+    "tags": ["샐러드"],
+    "category": "샐러드·요거트·브런치",
+    "type": "식사"
+  },
+  {
+    "name": "스시가오 (유스페이스)",
+    "latitude": "37.4006659",
+    "longitude": "127.1066863",
+    "url": "https://www.google.co.kr/maps/place/스시가오/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f5a16cfd5d:0xe9f9e108f4d582aa!8m2!3d37.4006659!4d127.1066863!15sCgbsi53ri7laCCIG7Iud64u5kgEbamFwYW5lc2VfaXpha2F5YV9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVJKYVRSZlJGQm5FQUXgAQA!16s%2Fg%2F11cm0z_3zz?hl=ko&entry=ttu",
+    "tags": ["유스페이스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "반작",
+    "latitude": "37.400692",
+    "longitude": "127.106594",
+    "url": "https://www.google.co.kr/maps/place/반작/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca7f50cd610c3:0x4e5712760efc95f0!8m2!3d37.400692!4d127.106594!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgESc2FzaGltaV9yZXN0YXVyYW504AEA!16s%2Fg%2F11c37m8tk8?hl=ko&entry=ttu",
+    "tags": ["숙성회", "유스페이스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "양바위",
+    "latitude": "37.3977829",
+    "longitude": "127.1135404",
+    "url": "https://www.google.co.kr/maps/place/양바위+본점/data=!4m12!1m2!2m1!1z7Iud64u5!3m8!1s0x357ca79e629eb2f7:0x5dff9b982bd51b35!8m2!3d37.3977829!4d127.1135404!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11gy3fcny4?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "콜키지프리", "대창"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "신도세기",
+    "latitude": "37.3944729",
+    "longitude": "127.1101793",
+    "url": "https://www.google.co.kr/maps/place/신도세기+판교역점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357b59780d6db8e7:0xc03113faea7b9f0!8m2!3d37.3944729!4d127.1101793!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11g3gs4vdq?hl=ko&entry=ttu",
+    "tags": ["판교역", "돼지고기"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "쉐누하누",
+    "latitude": "37.3939298",
+    "longitude": "127.1088066",
+    "url": "https://www.google.co.kr/maps/place/쉐누하누/data=!4m12!1m2!2m1!1z7Iud64u5!3m8!1s0x357b59168fd0c453:0xfcbb1077fad85a0b!8m2!3d37.3939298!4d127.1088066!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTnhYMDFJV2xwM0VBReABAA!16s%2Fg%2F11h7fm7c3c?hl=ko&entry=ttu",
+    "tags": ["판교역", "구워주는식당"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "판교집",
+    "latitude": "37.3964667",
+    "longitude": "127.1100481",
+    "url": "https://www.google.co.kr/maps/place/판교집+판교역점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357b59b2e521cc85:0xfcda24ad292000bb!8m2!3d37.3964667!4d127.1100481!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTnhieTFMTFRKUlJSQULgAQA!16s%2Fg%2F11r1y8svf3?hl=ko&entry=ttu",
+    "tags": ["냉삼겹살"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "카츠쇼쿠도우",
+    "latitude": "37.3940569",
+    "longitude": "127.1103997",
+    "url": "https://www.google.co.kr/maps/place/카츠쇼쿠도우+판교본점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357b59faee70442b:0xbe2a4490a6d20dea!8m2!3d37.3940569!4d127.1103997!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11flc5z0_4?hl=ko&entry=ttu",
+    "tags": ["돈까스", "판교역"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "코코이찌방야",
+    "latitude": "37.3936673",
+    "longitude": "127.1092606",
+    "url": "https://www.google.co.kr/maps/place/코코이찌방야+판교알파돔시티점/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357b580c067cd741:0x50481316a7a6acff!8m2!3d37.3936673!4d127.1092606!15sCgbsi53ri7laCCIG7Iud64u5kgEZamFwYW5lc2VfY3VycnlfcmVzdGF1cmFudOABAA!16s%2Fg%2F11hcjt3shl?hl=ko&entry=ttu",
+    "tags": ["판교역", "카레", "돈까스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "히카루후",
+    "latitude": "37.3971772",
+    "longitude": "127.1134365",
+    "url": "https://www.google.co.kr/maps/place/히카루후/data=!4m10!1m2!2m1!1z7Iud64u5!3m6!1s0x357ca7e16a826297:0x9bdb13d145778de1!8m2!3d37.3971772!4d127.1134365!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VORGFqbE1XWHBCUlJBQuABAA!16s%2Fg%2F11h886g9dm?hl=ko&entry=ttu",
+    "tags": ["카이센동", "일식", "덮밥", "아브뉴프랑"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "차알",
+    "latitude": "37.3967145",
+    "longitude": "127.1137734",
+    "url": "https://www.google.co.kr/maps/place/차알/data=!4m12!1m2!2m1!1z7Iud64u5!3m8!1s0x357b580c099d0007:0x793f58b92ec29eb2!8m2!3d37.3967145!4d127.1137734!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgESY2hpbmVzZV9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJIT0RWUWJUSlJSUkFC4AEA!16s%2Fg%2F11fx89s7xk?hl=ko&entry=ttu",
+    "tags": ["가지튀김", "중식", "아시안"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "우테이블",
+    "latitude": "37.3971772",
+    "longitude": "127.1134365",
+    "url": "https://www.google.co.kr/maps/place/우테이블/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f7d9294417:0xc06d2869ae6a1341!8m2!3d37.3971772!4d127.1134365!15sCgbsi53ri7laCCIG7Iud64u5kgEWa29yZWFuX2JlZWZfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VOR05sbFhOalZSUlJBQuABAA!16s%2Fg%2F11c55w578v?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "회식"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "제이스팟 (J's Pot)",
+    "latitude": "37.3941687",
+    "longitude": "127.1102506",
+    "url": "https://www.google.co.kr/maps/place/제이스+팟+J's+pot/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b598a3e399fbb:0x7dc3d792cfbc435!8m2!3d37.3941687!4d127.1102506!15sCgbsi53ri7laCCIG7Iud64u5kgESaG90X3BvdF9yZXN0YXVyYW504AEA!16s%2Fg%2F11grsw61wb?hl=ko&entry=ttu",
+    "tags": ["훠궈", "판교역"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "미도인",
+    "latitude": "37.3955324",
+    "longitude": "127.1118375",
+    "url": "https://www.google.co.kr/maps/place/미도인+판교테크원/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59db5fa723f9:0xe57dac0a96da906e!8m2!3d37.3955324!4d127.1118375!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2Vfc3RlYWtob3VzZeABAA!16s%2Fg%2F11kqf95ygq?hl=ko&entry=ttu",
+    "tags": ["판교역", "스테이크", "덮밥"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "한와담",
+    "latitude": "37.3944654",
+    "longitude": "127.1103704",
+    "url": "https://www.google.co.kr/maps/place/한와담+판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b5927b32b9e51:0x9ea5d5596cb88c74!8m2!3d37.3944654!4d127.1103704!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgETYmFyYmVjdWVfcmVzdGF1cmFudOABAA!16s%2Fg%2F11h8dtx3md?hl=ko&entry=ttu",
+    "tags": ["구위주는식당", "소고기", "판교약"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "js가든",
+    "latitude": "37.3927758",
+    "longitude": "127.1120283",
+    "url": "https://www.google.co.kr/maps/place/js가든+현대백화점판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b58092b64a541:0x49eddf97aa9a7258!8m2!3d37.3927758!4d127.1120283!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgESY2hpbmVzZV9yZXN0YXVyYW504AEA!16s%2Fg%2F11c502dl4r?hl=ko&entry=ttu",
+    "tags": ["판교역", "중식"],
+    "category": "중식",
+    "type": "식사"
+  },
+  {
+    "name": "용호동낙지",
+    "latitude": "37.3942392",
+    "longitude": "127.1091496",
+    "url": "https://www.google.co.kr/maps/place/용호동낙지+판교역점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b590fb77b2955:0xdb5b5cb29e021d9d!8m2!3d37.3942392!4d127.1091496!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fnpxmlkx?hl=ko&entry=ttu",
+    "tags": ["낙지", "판교역"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "영심이떡볶이 & 김법",
+    "latitude": "37.3970264",
+    "longitude": "127.1117093",
+    "url": "https://www.google.co.kr/maps/place/영심이떡볶이%26김밥+판교2호점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b5809c547a7cb:0xb5db3d782a26dfb3!8m2!3d37.3970264!4d127.1117093!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11hd748x9d?hl=ko&entry=ttu",
+    "tags": ["판교역", "분식"],
+    "category": "분식",
+    "type": "식사"
+  },
+  {
+    "name": "아르틴",
+    "latitude": "37.3952503",
+    "longitude": "127.1137597",
+    "url": "https://www.google.co.kr/maps/place/아르틴/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b588aba9ff77b:0x25f4c19ff140b63!8m2!3d37.3952503!4d127.1137597!15sCgbsi53ri7laCCIG7Iud64u5kgESd2VzdGVybl9yZXN0YXVyYW504AEA!16s%2Fg%2F11j38jkd1c?hl=ko&entry=ttu",
+    "tags": ["브런치", "판교역"],
+    "category": "샐러드·요거트·브런치",
+    "type": "식사"
+  },
+  {
+    "name": "매드포갈릭",
+    "latitude": "37.3951121",
+    "longitude": "127.109272",
+    "url": "https://www.google.co.kr/maps/place/매드포갈릭+판교라스트리트점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580b9883b545:0x1dcf882186a07e2!8m2!3d37.3951121!4d127.109272!15sCgbsi53ri7laCCIG7Iud64u5kgESaXRhbGlhbl9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5IY1U1NWJVTkJFQUXgAQA!16s%2Fg%2F11cn9ct78s?hl=ko&entry=ttu",
+    "tags": ["판교역", "스테이크"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "어글리스토브",
+    "latitude": "37.3940134",
+    "longitude": "127.1094529",
+    "url": "https://www.google.co.kr/maps/place/어글리스토브+판교라스트리트점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b580b8a81db3b:0x841e0bfa80ffc2d8!8m2!3d37.3940134!4d127.1094529!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgERZmFtaWx5X3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTk9iMkZpTUhOQlJSQULgAQA!16s%2Fg%2F11c59z0xdw?hl=ko&entry=ttu",
+    "tags": ["스테이크", "브런치", "파스타"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "에머이",
+    "latitude": "37.3966469",
+    "longitude": "127.1109444",
+    "url": "https://www.google.co.kr/maps/place/에머이+판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b580994fde3ab:0xf4eda120e396ed50!8m2!3d37.3966469!4d127.1109444!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEVdmlldG5hbWVzZV9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJ2ZUV4WWVuZDNSUkFC4AEA!16s%2Fg%2F11f03zngs2?hl=ko&entry=ttu",
+    "tags": ["쌀국수", "판교역"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "훠궈야",
+    "latitude": "37.3971772",
+    "longitude": "127.1134365",
+    "url": "https://www.google.co.kr/maps/place/훠궈야+판교아브뉴프랑점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7803ec6731f:0x33b797f464f31250!8m2!3d37.3971772!4d127.1134365!15sCgbsi53ri7laCCIG7Iud64u5kgESaG90X3BvdF9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVU50YmpacGVTMTNSUkFC4AEA!16s%2Fg%2F11fmd733sv?hl=ko&entry=ttu",
+    "tags": ["훠궈", "아브뉴프랑"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "생어거스틴 아브뉴프랑판교점",
+    "latitude": "37.3975639",
+    "longitude": "127.1133748",
+    "url": "https://www.google.co.kr/maps/place/생어거스틴아브뉴프랑판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0xc86f6df6688f683!8m2!3d37.3975639!4d127.1133748!15sCgbsi53ri7laCCIG7Iud64u5kgEXYXNpYW5fZnVzaW9uX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F1q5bvvx5w?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "퓨전아시아요리"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "사라베스",
+    "latitude": "37.3921924",
+    "longitude": "127.1117319",
+    "url": "https://www.google.co.kr/maps/place/사라베스-판교+현대백화점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca40687fe46f1:0x62b1b263ddbcc036!8m2!3d37.3921924!4d127.1117319!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgERYnJ1bmNoX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkxkSEpmTm14UlJSQULgAQA!16s%2Fg%2F11bw4vpvk0?hl=ko&entry=ttu",
+    "tags": ["현대백화점"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "스시혼",
+    "latitude": "37.3968953",
+    "longitude": "127.1132579",
+    "url": "https://www.google.co.kr/maps/place/스시혼/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0xcb3b900fe624f35a!8m2!3d37.3968953!4d127.1132579!15sCgbsi53ri7laCCIG7Iud64u5kgEQc3VzaGlfcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VNMWMyRnlUbEpSRUFF4AEA!16s%2Fg%2F1q5d60cjw?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "스시"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "서울마구로동 현대백화점 판교점",
+    "latitude": "37.3929956",
+    "longitude": "127.1122775",
+    "url": "https://www.google.co.kr/maps/place/서울마구로동+현대백화점+판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b59bc43e7426d:0xa5fe7f0a91958891!8m2!3d37.3929956!4d127.1122775!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11spkbqpx1?hl=ko&entry=tt",
+    "tags": ["참치", "현대백화점"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "봉우리",
+    "latitude": "37.3927758",
+    "longitude": "127.1120283",
+    "url": "https://www.google.co.kr/maps/place/봉우리+현대백화점+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b5843e9dabe99:0xb2a293addfc9bcdd!8m2!3d37.3927758!4d127.1120283!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkxOemhxU3pSQlJSQULgAQA!16s%2Fg%2F11ghrgr8fg?hl=ko&entry=ttu",
+    "tags": ["현대백화점"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "하파",
+    "latitude": "37.3942335",
+    "longitude": "127.1090838",
+    "url": "https://www.google.co.kr/maps/place/하파+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59e6e8cfa68b:0x579abc17683b99c3!8m2!3d37.3942335!4d127.1090838!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSU2IyOTZWVU5CRUFF4AEA!16s%2Fg%2F11h_3__bgk?hl=ko&entry=ttu",
+    "tags": ["중식", "판교역"],
+    "category": "중식",
+    "type": "식사"
+  },
+  {
+    "name": "이가네양파이",
+    "latitude": "37.3936215",
+    "longitude": "127.1089743",
+    "url": "https://www.google.co.kr/maps/place/이가네양파이+판교직영점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59baeb22897d:0xb006341f3bce9706!8m2!3d37.3936215!4d127.1089743!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fnqntvx5?hl=ko&entry=ttu",
+    "tags": ["양갈비", "판교역"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "통통곱창",
+    "latitude": "37.3964436",
+    "longitude": "127.1117012",
+    "url": "https://www.google.co.kr/maps/place/통통곱창/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b599f4d4a74f3:0xf2fc18e47767e073!8m2!3d37.3964436!4d127.1117012!15sCgbsi53ri7laCCIG7Iud64u5kgEYZ3V0c19iYXJiZWN1ZV9yZXN0YXVyYW504AEA!16s%2Fg%2F11j0xm17xr?hl=ko&entry=ttu",
+    "tags": ["곱창", "판교역"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "이탈리",
+    "latitude": "37.3930826",
+    "longitude": "127.1122563",
+    "url": "https://www.google.co.kr/maps/place/이탈리+현대백화점+판교점+(Eataly+Pangyo)/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b580929c43829:0x61eacb3a7a465a84!8m2!3d37.3930826!4d127.1122563!15sCgbsi53ri7laCCIG7Iud64u5kgESaXRhbGlhbl9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVI1T1V4bFRreEJFQUXgAQA!16s%2Fg%2F11bwqqd2t7?hl=ko&entry=ttu",
+    "tags": ["이탈리아음식", "현대백화점"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "h541",
+    "latitude": "37.3925707",
+    "longitude": "127.111996",
+    "url": "https://www.google.co.kr/maps/place/h541/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b590c248459f9:0x8a8357f475e03110!8m2!3d37.3925707!4d127.111996!15sCgbsi53ri7laCCIG7Iud64u5kgESaXRhbGlhbl9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5vY2xsMVdWcG5FQUXgAQA!16s%2Fg%2F11fnr1zt_2?hl=ko&entry=ttu",
+    "tags": ["이탈리아음식", "현대백화점"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "새마을식당",
+    "latitude": "37.4019536",
+    "longitude": "127.1072768",
+    "url": "https://www.google.co.kr/maps/place/새마을식당+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f456f422bd:0xde0dfe69bc31587!8m2!3d37.4019536!4d127.1072768!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTkNlWFZMWnpoUlJSQULgAQA!16s%2Fg%2F11bwzytznj?hl=ko&entry=ttu",
+    "tags": ["돼지고기"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "배키욘방판교직영점",
+    "latitude": "37.3950628",
+    "longitude": "127.1092424",
+    "url": "https://www.google.co.kr/maps/place/배키욘방판교직영점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b587309fa539b:0x71f3ff20079f5946!8m2!3d37.3950628!4d127.1092424!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11k3n9ht3l?hl=ko&entry=ttu",
+    "tags": ["일식", "덮밥"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "라디오베이",
+    "latitude": "37.3976436",
+    "longitude": "127.1106185",
+    "url": "https://www.google.co.kr/maps/place/라디오베이/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b5809e457b8fd:0x75a98521df3cead7!8m2!3d37.3976436!4d127.1106185!15sCgbsi53ri7laCCIG7Iud64u5kgERZnVzaW9uX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTjVjazV1YlZOUkVBReABAA!16s%2Fg%2F11cm9t7tvj?hl=ko&entry=ttu",
+    "tags": ["피자", "이탈리아음식"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "돈블랑",
+    "latitude": "37.3954374",
+    "longitude": "127.1087721",
+    "url": "https://www.google.co.kr/maps/place/돈블랑+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59a98435d5d1:0x897012c18abf14b3!8m2!3d37.3954374!4d127.1087721!15sCgbsi53ri7laCCIG7Iud64u5kgEaa29yZWFuX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm9jalpJT1doblJSQULgAQA!16s%2Fg%2F11h3c4z3np?hl=ko&entry=ttu",
+    "tags": ["돼지고기"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "소호정",
+    "latitude": "37.3974414",
+    "longitude": "127.1132437",
+    "url": "https://www.google.co.kr/maps/place/소호정+판교아브뉴프랑점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7011dc6890b:0x9757370d2ceb5a!8m2!3d37.3974414!4d127.1132437!15sCgbsi53ri7laCCIG7Iud64u5kgELbm9vZGxlX3Nob3CaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUkNiV1JRWjNSM1JSQULgAQA!16s%2Fg%2F11flgg309p?hl=ko&entry=ttu",
+    "tags": ["국시", "아브뉴프랑"],
+    "category": "백반·죽·국수",
+    "type": "식사"
+  },
+  {
+    "name": "담솥",
+    "latitude": "37.3980705",
+    "longitude": "127.1137925",
+    "url": "https://www.google.co.kr/maps/place/담솥+판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357ca715ca05e3cf:0xf245e86d6b45e1f9!8m2!3d37.3980705!4d127.1137925!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11v0hr5lnn?hl=ko&entry=ttu",
+    "tags": ["솥밥", "아브뉴프랑"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "이가네양꼬치",
+    "latitude": "37.397639",
+    "longitude": "127.1125236",
+    "url": "https://www.google.co.kr/maps/place/이가네양꼬치+판교본점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0x377f05355967ce29!8m2!3d37.397639!4d127.1125236!15sCgbsi53ri7laCCIG7Iud64u5kgEabXV0dG9uX2JhcmJlY3VlX3Jlc3RhdXJhbnSaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk9lV054WDFWM0VBReABAA!16s%2Fg%2F11bw5v4r06?hl=ko&entry=ttu",
+    "tags": ["양꼬치", "아브뉴프랑"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "닥터로빈",
+    "latitude": "37.39764",
+    "longitude": "127.1136506",
+    "url": "https://www.google.co.kr/maps/place/닥터로빈+시그니처+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7e540109215:0x8250307deeb00bd6!8m2!3d37.39764!4d127.1136506!15sCgbsi53ri7laCCIG7Iud64u5kgESaXRhbGlhbl9yZXN0YXVyYW504AEA!16s%2Fg%2F11bbtc1zm6?hl=ko&entry=ttu",
+    "tags": ["이탈리아음식", "아브뉴프랑"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "판교도마집",
+    "latitude": "37.3974961",
+    "longitude": "127.1116734",
+    "url": "https://www.google.co.kr/maps/place/판교도마집/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b5809d9e9c859:0x6999feba0d5fa84e!8m2!3d37.3974961!4d127.1116734!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSRGJGbFFRMFYzRUFF4AEA!16s%2Fg%2F11f64dmcn1?hl=ko&entry=ttu",
+    "tags": ["오징어찜", "돔베고기", "판교역"],
+    "category": "한식",
+    "type": "식사"
+  },
+  {
+    "name": "아웃백스테이크하우스",
+    "latitude": "37.3953617",
+    "longitude": "127.1123877",
+    "url": "https://www.google.co.kr/maps/place/아웃백스테이크하우스+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59e9cbc079db:0x4c0c8576d0464b7f!8m2!3d37.3953617!4d127.1123877!15sCgbsi53ri7laCCIG7Iud64u5kgELc3RlYWtfaG91c2XgAQA!16s%2Fg%2F11kqbnlw99?hl=ko&entry=ttu",
+    "tags": ["이탈리아음식", "판교역", "스테이크"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "오복수산",
+    "latitude": "37.3950578",
+    "longitude": "127.1118597",
+    "url": "https://www.google.co.kr/maps/place/오복수산+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b595035296145:0xe2d341e9a652d9f6!8m2!3d37.3950578!4d127.1118597!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F11sqcxht6r?hl=ko&entry=ttu",
+    "tags": ["덮밥", "판교역", "해산물"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "진짜돼지",
+    "latitude": "37.3976047",
+    "longitude": "127.1123834",
+    "url": "https://www.google.co.kr/maps/place/진짜돼지/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca74a4761e88f:0xb508a29bd03118f1!8m2!3d37.3976047!4d127.1123834!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11fmwt0k05?hl=ko&entry=ttu",
+    "tags": ["돼지고기", "아브뉴프랑"],
+    "category": "고기·구이",
+    "type": "식사"
+  },
+  {
+    "name": "오사이초밥",
+    "latitude": "37.3967238",
+    "longitude": "127.1100469",
+    "url": "https://www.google.co.kr/maps/place/오마카세+오사이초밥+판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b597669472127:0x28c57d270788d675!8m2!3d37.3967238!4d127.1100469!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgETamFwYW5lc2VfcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VNeE1uWnRSVE5SUlJBQuABAA!16s%2Fg%2F11s48gccdp?hl=ko&entry=ttu",
+    "tags": ["판교점", "오마카세", "일식"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "이황식당",
+    "latitude": "37.4013517",
+    "longitude": "127.1101575",
+    "url": "https://www.google.co.kr/maps/place/이황식당/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7c092a26193:0x4ad88c84ff049456!8m2!3d37.4013517!4d127.1101575!15sCgbsi53ri7laCCIG7Iud64u5kgEQcmFtZW5fcmVzdGF1cmFudJoBJENoZERTVWhOTUc5blMwVkpRMEZuU1VReWRrMTZSWGhuUlJBQuABAA!16s%2Fg%2F11p06cs_9y?hl=ko&entry=ttu",
+    "tags": ["리멘", "하이펙스"],
+    "category": "돈까스·회·일식",
+    "type": "식사"
+  },
+  {
+    "name": "인디테이블",
+    "latitude": "37.3974097",
+    "longitude": "127.1133703",
+    "url": "https://www.google.co.kr/maps/place/인디테이블+아브뉴프랑판교점/data=!4m13!1m3!2m2!1z7Iud64u5!6e5!3m8!1s0x357b58093f38f7b3:0x4c456c072043ba3c!8m2!3d37.3974097!4d127.1133703!9m1!1b1!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudJoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VSNWIyWlhVa0YzRUFF4AEA!16s%2Fg%2F11g8wyrv0v?hl=ko&entry=ttu",
+    "tags": ["아브뉴프랑", "인도음식"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "감성타코",
+    "latitude": "37.3974891",
+    "longitude": "127.1133345",
+    "url": "https://www.google.co.kr/maps/place/감성타코+판교점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca79a5e00ea9f:0x23a659c9f6a1a6d7!8m2!3d37.3974891!4d127.1133345!15sCgbsi53ri7laCCIG7Iud64u5kgESbWV4aWNhbl9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJITTFCaVIzUkJSUkFC4AEA!16s%2Fg%2F11f8l3c5hv?hl=ko&entry=ttu",
+    "tags": ["멕시코음식", "아브뉴프랑"],
+    "category": "양식",
+    "type": "식사"
+  },
+  {
+    "name": "Gate 9",
+    "latitude": "37.3923746",
+    "longitude": "127.1117492",
+    "url": "https://www.google.co.kr/maps/place/Gate+9/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357b59219dea5577:0x2e9bd72e460d9ad6!8m2!3d37.3923746!4d127.1117492!15sCgbsi53ri7laCCIG7Iud64u5kgEPdGhhaV9yZXN0YXVyYW50mgEkQ2hkRFNVaE5NRzluUzBWSlEwRm5TVVJsY0haTU5tMVJSUkFC4AEA!16s%2Fg%2F11fq87_38_?hl=ko&entry=ttu",
+    "tags": ["현대백화점"],
+    "category": "아시안",
+    "type": "식사"
+  },
+  {
+    "name": "일편닭심",
+    "latitude": "37.3979171",
+    "longitude": "127.1117631",
+    "url": "https://www.google.co.kr/maps/place/일편닭심/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7f62e57a123:0x49c2ac1c99c97623!8m2!3d37.3979171!4d127.1117631!15sCgbsi53ri7laCCIG7Iud64u5kgESY2hpY2tlbl9yZXN0YXVyYW504AEA!16s%2Fg%2F11dxbnmjly?hl=ko&entry=ttu",
+    "tags": ["닭꼬치"],
+    "category": "치킨",
+    "type": "식사"
+  }
+]
