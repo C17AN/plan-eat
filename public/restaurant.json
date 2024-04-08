@@ -17,15 +17,7 @@
     "category": "찜·탕·찌개",
     "type": "식사"
   },
-  {
-    "name": "원조감자탕",
-    "latitude": "37.4039718",
-    "longitude": "127.0997441",
-    "url": "https://www.google.co.kr/maps/place/원조감자탕+일미집+판교2호점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca7d60420f59b:0xa6b6641a16cc3472!8m2!3d37.4039718!4d127.0997441!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11srbk1_n5?hl=ko&entry=ttu",
-    "tags": ["감자탕", "우림"],
-    "category": "찜·탕·찌개",
-    "type": "식사"
-  },
+
   {
     "name": "스시가오 (우림)",
     "latitude": "37.4037041",
@@ -71,16 +63,6 @@
     "longitude": "127.100521",
     "url": "https://www.google.co.kr/maps/place/모박사부대찌개/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca781e0bf3671:0x11e7233c09a879b5!8m2!3d37.4038856!4d127.100521!15sCgbsi53ri7laCCIG7Iud64u5kgEKcmVzdGF1cmFudOABAA!16s%2Fg%2F11qmp5qjln?hl=ko&entry=ttu",
     "tags": ["부대찌개"],
-    "category": "찜·탕·찌개",
-    "type": "식사"
-  },
-
-  {
-    "name": "담소소사골순대",
-    "latitude": "37.4041132",
-    "longitude": "127.0998041",
-    "url": "https://www.google.co.kr/maps/place/담소소사골순대+판교테크노밸리점/data=!4m11!1m3!2m2!1z7Iud64u5!6e5!3m6!1s0x357ca78a324278bb:0x1ef1ec8caaa7fe30!8m2!3d37.4041132!4d127.0998041!15sCgbsi53ri7laCCIG7Iud64u5kgERa29yZWFuX3Jlc3RhdXJhbnSaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTXliWEp5Y2w5UlJSQULgAQA!16s%2Fg%2F11hbfkkbbl?hl=ko&entry=ttu",
-    "tags": ["국밥", "순대"],
     "category": "찜·탕·찌개",
     "type": "식사"
   },
@@ -1256,5 +1238,14 @@
     "tags": ["닭꼬치"],
     "category": "치킨",
     "type": "식사"
+  },
+  {
+    "name": "알레그리아",
+    "latitude": "37.4013322",
+    "longitude": "127.1109843",
+    "url": "https://www.google.co.kr/maps/place/ACR+•+Alegria+Coffee+Roasters/data=!4m10!1m2!2m1!1z7JWM66CI6re466as7JWEIO2MkOq1kA!3m6!1s0x357ca78fc4d8aeff:0x9ada03580188f743!8m2!3d37.4013322!4d127.1109843!15sChbslYzroIjqt7jrpqzslYQg7YyQ6rWQWhgiFuyVjOugiOq3uOumrOyVhCDtjJDqtZCSAQRjYWZlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU14WjA5UE1tWjNFQUXgAQA!16s%2Fg%2F11gwmk6lvh?hl=ko&entry=ttu",
+    "tags": [],
+    "category": "",
+    "type": "카페"
   }
 ]

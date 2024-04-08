@@ -2,6 +2,7 @@ import { default as RandomEmoji } from "@/components/EmojiCloud";
 import { routes } from "@/route";
 import styled from "@emotion/styled";
 import { useNavigate } from "react-router-dom";
+import SendOpinion from "./components/SendOpinion";
 
 const Main = () => {
   const navigate = useNavigate();
@@ -30,6 +31,7 @@ const Main = () => {
       <IntroButton onClick={routeToNearRestaurant}>
         구내식당 메뉴 둘러보기
       </IntroButton>
+      <SendOpinion />
       {/* <ul>
         <Menu onClick={routeToAdmin}>어드민</Menu>
       </ul> */}

@@ -36,9 +36,21 @@ const NearRestaurants = () => {
     setDiningCategory(v);
   };
 
-  const filteredRestaurantList = restaurantList?.filter(
-    (restaurant) => restaurant.type === diningCategory.value
-  );
+  const filteredRestaurantList = ({
+    diningCategory,
+    foodCategory,
+  }: {
+    diningCategory: Dining;
+    foodCategory?: Category;
+  }) => {
+    return restaurantList?.filter((restaurant) => {
+      if (diningCategory.value === "식사") {
+        return restaurant.category === foodCategory;
+      } else {
+        return restaurant.type === "카페";
+      }
+    });
+  };
 
   return (
     <Container>
@@ -51,14 +63,27 @@ const NearRestaurants = () => {
           />
           <Input placeholder="식당 이름 또는 키워드를 검색해보세요" />
           <ResturantList>
-            {categoryList.map((category) => (
-              <li key={category}>
-                <CategoryTitle>{category}</CategoryTitle>
-                {filteredRestaurantList?.map((restaurant) => (
-                  <RestaurantListItem key={restaurant.name} {...restaurant} />
+            {diningCategory.value === "식사" ? (
+              categoryList.map((category) => (
+                <li key={category}>
+                  <CategoryTitle>{category}</CategoryTitle>
+                  {filteredRestaurantList({
+                    diningCategory,
+                    foodCategory: category,
+                  })?.map((restaurant) => (
+                    <RestaurantListItem key={restaurant.url} {...restaurant} />
+                  ))}
+                </li>
+              ))
+            ) : (
+              <>
+                {filteredRestaurantList({
+                  diningCategory,
+                })?.map((restaurant) => (
+                  <RestaurantListItem key={restaurant.url} {...restaurant} />
                 ))}
-              </li>
-            ))}
+              </>
+            )}
           </ResturantList>
         </DescriptionContainer>
         <div

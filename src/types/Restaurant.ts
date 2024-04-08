@@ -4,14 +4,14 @@ export type Restaurant = {
   longitude: number;
   url: string;
   type?: Dining;
-  category: Category;
+  category: FoodCategory;
   // location?: Location;
   tags?: string[];
 };
 
 // export type Location = "우림" | "유스페이스" | "판교역";
 
-export type Category =
+export type FoodCategory =
   | "치킨"
   | "중식"
   | "분식"
@@ -28,7 +28,7 @@ export type Category =
   | "샐러드·요거트·브런치"
   | "카페·디저트";
 
-export const categoryList: Category[] = [
+export const categoryList: FoodCategory[] = [
   "치킨",
   "중식",
   "분식",
